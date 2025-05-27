@@ -1,0 +1,501 @@
+Name,Gender,Case Description,Criminal Record,Age,Risk Level (%)
+Benjamin,Male,petty theft from workplace,One prior offense,60,55.9
+Liam,Male,verbal assault in public,None,39,24.7
+Benjamin,Male,disrupting public order,None,59,28.0
+Sarah,Female,possessing a small amount of cannabis,Multiple prior offenses,34,68.7
+Liam,Male,disrupting public order,One prior offense,55,47.2
+Emily,Female,trespassing on private property,Multiple prior offenses,51,76.0
+Ethan,Male,trespassing on private property,Multiple prior offenses,24,81.4
+Daniel,Male,minor fraud in online sale,One prior offense,49,55.7
+Benjamin,Male,driving without a license,Multiple prior offenses,57,83.5
+Liam,Male,trespassing on private property,Multiple prior offenses,25,75.4
+Emily,Female,disrupting public order,One prior offense,26,51.2
+Jessica,Female,disrupting public order,One prior offense,23,56.4
+Emily,Female,verbal assault in public,Multiple prior offenses,38,72.7
+Michael,Male,petty theft from workplace,None,57,35.3
+Sarah,Female,driving without a license,One prior offense,53,43.5
+Mia,Female,driving without a license,One prior offense,38,50.4
+Liam,Male,shoplifting from a supermarket,One prior offense,55,41.2
+Adam,Male,verbal assault in public,One prior offense,18,60.1
+Jessica,Female,disrupting public order,One prior offense,51,56.6
+Sophia,Female,vandalizing public property,Multiple prior offenses,58,80.7
+Noah,Male,petty theft from workplace,None,57,19.7
+Ethan,Male,verbal assault in public,Multiple prior offenses,33,83.8
+James,Male,driving without a license,Multiple prior offenses,49,80.6
+Ava,Female,possessing a small amount of cannabis,None,56,34.6
+Adam,Male,vandalizing public property,None,28,32.5
+Ethan,Male,verbal assault in public,Multiple prior offenses,33,75.2
+James,Male,shoplifting from a supermarket,One prior offense,25,62.1
+David,Male,disrupting public order,One prior offense,58,55.3
+Liam,Male,driving without a license,None,52,26.7
+Benjamin,Male,disrupting public order,One prior offense,24,48.3
+James,Male,verbal assault in public,None,36,21.9
+Emily,Female,minor fraud in online sale,None,24,23.9
+Sophia,Female,shoplifting from a supermarket,None,19,20.5
+Olivia,Female,disrupting public order,None,58,14.4
+Liam,Male,possessing a small amount of cannabis,One prior offense,58,38.8
+Michael,Male,petty theft from workplace,Multiple prior offenses,60,81.1
+Jessica,Female,shoplifting from a supermarket,One prior offense,34,68.2
+Mia,Female,minor fraud in online sale,None,53,35.3
+Adam,Male,shoplifting from a supermarket,None,32,36.2
+Ava,Female,disrupting public order,Multiple prior offenses,59,77.7
+Daniel,Male,disrupting public order,None,29,35.7
+Sarah,Female,vandalizing public property,One prior offense,29,55.8
+Adam,Male,verbal assault in public,None,36,32.4
+Mia,Female,minor fraud in online sale,One prior offense,32,54.4
+Benjamin,Male,disrupting public order,Multiple prior offenses,20,89.5
+Ava,Female,illegal street vending,Multiple prior offenses,22,83.5
+Sophia,Female,vandalizing public property,One prior offense,32,60.5
+James,Male,illegal street vending,Multiple prior offenses,55,78.5
+Olivia,Female,shoplifting from a supermarket,None,30,20.3
+Sarah,Female,shoplifting from a supermarket,Multiple prior offenses,35,74.5
+Ava,Female,petty theft from workplace,One prior offense,57,66.9
+Liam,Male,trespassing on private property,None,36,17.5
+Emily,Female,disrupting public order,One prior offense,43,68.0
+Michael,Male,vandalizing public property,One prior offense,40,54.4
+James,Male,disrupting public order,None,24,19.3
+Liam,Male,trespassing on private property,One prior offense,22,67.2
+Olivia,Female,driving without a license,Multiple prior offenses,31,78.1
+Olivia,Female,minor fraud in online sale,None,19,32.1
+Rachel,Female,verbal assault in public,Multiple prior offenses,51,85.1
+Michael,Male,trespassing on private property,None,29,25.1
+Jessica,Female,minor fraud in online sale,One prior offense,22,59.0
+Noah,Male,minor fraud in online sale,Multiple prior offenses,47,89.9
+Sophia,Female,minor fraud in online sale,One prior offense,59,70.0
+Jonathan,Male,petty theft from workplace,One prior offense,51,49.5
+Olivia,Female,verbal assault in public,Multiple prior offenses,28,85.6
+Jonathan,Male,vandalizing public property,One prior offense,25,65.6
+Rachel,Female,shoplifting from a supermarket,Multiple prior offenses,34,81.8
+Adam,Male,verbal assault in public,Multiple prior offenses,22,82.2
+David,Male,trespassing on private property,None,57,23.0
+Sarah,Female,possessing a small amount of cannabis,None,23,10.1
+Ava,Female,possessing a small amount of cannabis,None,35,33.5
+Adam,Male,disrupting public order,One prior offense,37,42.9
+Adam,Male,petty theft from workplace,One prior offense,51,48.5
+James,Male,verbal assault in public,One prior offense,46,69.7
+Ethan,Male,petty theft from workplace,Multiple prior offenses,42,90.9
+Daniel,Male,minor fraud in online sale,One prior offense,25,53.2
+Rachel,Female,petty theft from workplace,Multiple prior offenses,44,90.1
+Rachel,Female,illegal street vending,None,34,25.3
+Rachel,Female,vandalizing public property,Multiple prior offenses,54,85.6
+Rachel,Female,minor fraud in online sale,One prior offense,30,52.8
+Daniel,Male,petty theft from workplace,None,34,43.2
+Daniel,Male,shoplifting from a supermarket,None,24,13.3
+Sarah,Female,driving without a license,None,55,15.2
+Mia,Female,verbal assault in public,None,43,13.2
+Hannah,Female,minor fraud in online sale,None,31,16.2
+Sarah,Female,petty theft from workplace,Multiple prior offenses,32,86.7
+Olivia,Female,petty theft from workplace,One prior offense,20,65.8
+Adam,Male,minor fraud in online sale,Multiple prior offenses,33,94.8
+Noah,Male,driving without a license,One prior offense,44,58.4
+Emma,Female,shoplifting from a supermarket,One prior offense,23,56.6
+Liam,Male,shoplifting from a supermarket,One prior offense,35,49.5
+Michael,Male,disrupting public order,None,32,35.2
+Jonathan,Male,disrupting public order,Multiple prior offenses,55,83.5
+Sarah,Female,driving without a license,Multiple prior offenses,39,82.0
+Adam,Male,driving without a license,None,30,11.9
+David,Male,disrupting public order,One prior offense,50,60.2
+Michael,Male,illegal street vending,Multiple prior offenses,45,78.6
+Noah,Male,disrupting public order,One prior offense,25,46.9
+James,Male,verbal assault in public,Multiple prior offenses,56,72.1
+Benjamin,Male,shoplifting from a supermarket,One prior offense,55,56.9
+Benjamin,Male,verbal assault in public,One prior offense,52,56.1
+Emily,Female,petty theft from workplace,One prior offense,27,67.1
+Jonathan,Male,minor fraud in online sale,Multiple prior offenses,58,91.7
+Emily,Female,possessing a small amount of cannabis,Multiple prior offenses,18,68.4
+Noah,Male,verbal assault in public,One prior offense,39,57.6
+James,Male,vandalizing public property,None,25,34.1
+Rachel,Female,petty theft from workplace,Multiple prior offenses,37,78.4
+Emma,Female,possessing a small amount of cannabis,Multiple prior offenses,28,72.0
+Emma,Female,illegal street vending,None,19,16.5
+Sarah,Female,disrupting public order,One prior offense,33,52.7
+Ethan,Male,illegal street vending,Multiple prior offenses,35,82.6
+Ava,Female,possessing a small amount of cannabis,One prior offense,39,57.2
+David,Male,petty theft from workplace,None,53,43.1
+Liam,Male,verbal assault in public,None,44,10.7
+Rachel,Female,illegal street vending,None,31,5.8
+Mia,Female,minor fraud in online sale,One prior offense,20,45.4
+Sarah,Female,vandalizing public property,None,19,22.1
+Michael,Male,trespassing on private property,Multiple prior offenses,38,77.2
+Sophia,Female,illegal street vending,One prior offense,19,64.3
+Noah,Male,shoplifting from a supermarket,None,42,29.7
+Michael,Male,verbal assault in public,Multiple prior offenses,40,72.1
+Ava,Female,disrupting public order,One prior offense,41,43.6
+Liam,Male,possessing a small amount of cannabis,Multiple prior offenses,19,78.5
+Rachel,Female,illegal street vending,Multiple prior offenses,49,72.6
+Emily,Female,minor fraud in online sale,Multiple prior offenses,49,93.0
+James,Male,illegal street vending,One prior offense,18,52.0
+Ava,Female,shoplifting from a supermarket,None,42,33.5
+Sarah,Female,trespassing on private property,None,26,12.6
+Benjamin,Male,verbal assault in public,Multiple prior offenses,58,70.3
+Rachel,Female,shoplifting from a supermarket,Multiple prior offenses,40,73.8
+Rachel,Female,petty theft from workplace,One prior offense,49,51.4
+Sarah,Female,minor fraud in online sale,One prior offense,53,45.2
+Mia,Female,shoplifting from a supermarket,One prior offense,18,46.9
+Daniel,Male,minor fraud in online sale,None,58,21.7
+Daniel,Male,illegal street vending,One prior offense,54,48.4
+Emma,Female,trespassing on private property,One prior offense,35,50.1
+Rachel,Female,petty theft from workplace,Multiple prior offenses,33,93.4
+Adam,Male,shoplifting from a supermarket,Multiple prior offenses,40,73.5
+Jonathan,Male,disrupting public order,None,32,18.5
+Sophia,Female,possessing a small amount of cannabis,One prior offense,21,63.7
+Sarah,Female,minor fraud in online sale,One prior offense,21,45.3
+Liam,Male,verbal assault in public,None,19,26.4
+Sophia,Female,trespassing on private property,One prior offense,55,69.0
+Emma,Female,petty theft from workplace,One prior offense,59,72.1
+Sophia,Female,vandalizing public property,One prior offense,26,56.2
+David,Male,petty theft from workplace,One prior offense,50,50.8
+Emma,Female,shoplifting from a supermarket,None,19,10.6
+James,Male,petty theft from workplace,One prior offense,33,56.1
+Ava,Female,illegal street vending,One prior offense,53,41.8
+Ava,Female,illegal street vending,Multiple prior offenses,18,80.0
+Rachel,Female,verbal assault in public,Multiple prior offenses,40,79.0
+James,Male,possessing a small amount of cannabis,One prior offense,29,38.9
+Sarah,Female,vandalizing public property,One prior offense,52,53.8
+Sophia,Female,verbal assault in public,One prior offense,58,57.6
+Daniel,Male,verbal assault in public,Multiple prior offenses,53,87.1
+Olivia,Female,minor fraud in online sale,Multiple prior offenses,44,94.3
+Jonathan,Male,shoplifting from a supermarket,None,19,10.6
+Sarah,Female,driving without a license,Multiple prior offenses,35,78.2
+James,Male,illegal street vending,None,35,29.6
+Adam,Male,verbal assault in public,Multiple prior offenses,24,74.6
+Benjamin,Male,minor fraud in online sale,Multiple prior offenses,59,85.6
+Hannah,Female,shoplifting from a supermarket,None,45,39.4
+James,Male,vandalizing public property,One prior offense,25,53.4
+Benjamin,Male,disrupting public order,One prior offense,34,69.6
+James,Male,trespassing on private property,None,45,18.1
+Olivia,Female,petty theft from workplace,One prior offense,46,53.6
+Sophia,Female,petty theft from workplace,One prior offense,32,59.4
+James,Male,disrupting public order,One prior offense,29,66.1
+Olivia,Female,driving without a license,Multiple prior offenses,54,82.3
+Benjamin,Male,petty theft from workplace,One prior offense,43,60.4
+Ethan,Male,verbal assault in public,Multiple prior offenses,19,77.2
+Mia,Female,driving without a license,Multiple prior offenses,50,78.2
+Sophia,Female,petty theft from workplace,None,32,22.2
+Olivia,Female,driving without a license,None,25,20.8
+Noah,Male,petty theft from workplace,One prior offense,58,65.7
+Rachel,Female,driving without a license,One prior offense,45,43.1
+Noah,Male,petty theft from workplace,One prior offense,31,46.0
+David,Male,illegal street vending,Multiple prior offenses,25,84.0
+Ava,Female,disrupting public order,None,37,25.2
+Liam,Male,trespassing on private property,None,44,13.3
+Adam,Male,verbal assault in public,One prior offense,39,55.4
+Emma,Female,disrupting public order,One prior offense,58,45.3
+Sophia,Female,disrupting public order,None,60,30.5
+Emma,Female,vandalizing public property,One prior offense,55,48.8
+Sophia,Female,minor fraud in online sale,Multiple prior offenses,36,88.2
+Adam,Male,disrupting public order,Multiple prior offenses,47,78.4
+Ethan,Male,trespassing on private property,Multiple prior offenses,21,73.6
+Sophia,Female,minor fraud in online sale,None,25,37.6
+Hannah,Female,disrupting public order,None,50,34.8
+Emma,Female,shoplifting from a supermarket,Multiple prior offenses,30,73.1
+Rachel,Female,verbal assault in public,None,59,27.2
+Hannah,Female,minor fraud in online sale,None,56,44.0
+Olivia,Female,trespassing on private property,None,22,18.4
+Ethan,Male,trespassing on private property,One prior offense,23,53.1
+Jessica,Female,illegal street vending,One prior offense,22,57.6
+Rachel,Female,petty theft from workplace,One prior offense,25,55.7
+Michael,Male,trespassing on private property,Multiple prior offenses,26,71.2
+David,Male,vandalizing public property,None,51,35.7
+Olivia,Female,minor fraud in online sale,One prior offense,24,63.0
+Sophia,Female,possessing a small amount of cannabis,None,21,14.5
+Ethan,Male,shoplifting from a supermarket,None,36,15.7
+Noah,Male,shoplifting from a supermarket,Multiple prior offenses,53,75.2
+Sophia,Female,trespassing on private property,One prior offense,46,56.0
+Daniel,Male,petty theft from workplace,One prior offense,56,73.1
+Jonathan,Male,possessing a small amount of cannabis,Multiple prior offenses,41,83.7
+Hannah,Female,vandalizing public property,Multiple prior offenses,25,77.0
+Noah,Male,possessing a small amount of cannabis,One prior offense,31,44.5
+James,Male,vandalizing public property,One prior offense,45,68.7
+David,Male,shoplifting from a supermarket,None,37,28.1
+Daniel,Male,trespassing on private property,Multiple prior offenses,33,72.0
+Jonathan,Male,verbal assault in public,Multiple prior offenses,55,75.0
+Jonathan,Male,illegal street vending,One prior offense,44,59.3
+Noah,Male,possessing a small amount of cannabis,None,56,28.0
+Hannah,Female,shoplifting from a supermarket,One prior offense,45,58.5
+Mia,Female,vandalizing public property,One prior offense,44,40.8
+David,Male,minor fraud in online sale,None,23,21.8
+Ava,Female,vandalizing public property,One prior offense,36,68.7
+Adam,Male,illegal street vending,One prior offense,54,54.5
+Rachel,Female,possessing a small amount of cannabis,One prior offense,19,49.2
+Rachel,Female,driving without a license,Multiple prior offenses,18,89.5
+Jessica,Female,verbal assault in public,One prior offense,39,62.7
+David,Male,verbal assault in public,None,58,26.3
+Liam,Male,minor fraud in online sale,Multiple prior offenses,55,81.7
+Noah,Male,driving without a license,None,41,24.4
+Jessica,Female,minor fraud in online sale,None,27,40.3
+Emily,Female,trespassing on private property,None,49,36.8
+Emily,Female,shoplifting from a supermarket,One prior offense,47,61.6
+Adam,Male,verbal assault in public,One prior offense,36,68.9
+Michael,Male,shoplifting from a supermarket,One prior offense,36,40.6
+Ethan,Male,trespassing on private property,One prior offense,58,58.7
+Jonathan,Male,verbal assault in public,Multiple prior offenses,56,77.7
+Olivia,Female,disrupting public order,One prior offense,24,57.9
+Adam,Male,shoplifting from a supermarket,One prior offense,33,48.7
+Benjamin,Male,minor fraud in online sale,One prior offense,57,52.6
+Hannah,Female,petty theft from workplace,Multiple prior offenses,48,85.0
+Adam,Male,petty theft from workplace,None,48,35.3
+Hannah,Female,verbal assault in public,One prior offense,24,54.8
+Olivia,Female,driving without a license,Multiple prior offenses,50,81.6
+Noah,Male,vandalizing public property,Multiple prior offenses,24,86.8
+Jonathan,Male,trespassing on private property,One prior offense,33,52.4
+Jessica,Female,shoplifting from a supermarket,None,40,15.7
+Emily,Female,illegal street vending,Multiple prior offenses,60,76.1
+Jessica,Female,vandalizing public property,Multiple prior offenses,59,72.5
+Emily,Female,verbal assault in public,None,31,24.3
+Daniel,Male,shoplifting from a supermarket,One prior offense,24,56.2
+David,Male,possessing a small amount of cannabis,Multiple prior offenses,39,78.4
+Sophia,Female,disrupting public order,One prior offense,40,50.0
+Sarah,Female,minor fraud in online sale,Multiple prior offenses,25,82.5
+Benjamin,Male,minor fraud in online sale,None,37,21.6
+Jonathan,Male,shoplifting from a supermarket,One prior offense,21,60.0
+Rachel,Female,trespassing on private property,None,51,26.3
+David,Male,shoplifting from a supermarket,None,43,26.6
+Ethan,Male,vandalizing public property,Multiple prior offenses,37,81.6
+Emma,Female,shoplifting from a supermarket,One prior offense,27,42.5
+Jonathan,Male,driving without a license,None,23,25.1
+Emily,Female,possessing a small amount of cannabis,Multiple prior offenses,45,83.1
+Liam,Male,minor fraud in online sale,None,38,29.6
+Adam,Male,minor fraud in online sale,None,19,36.3
+Ava,Female,verbal assault in public,Multiple prior offenses,18,82.3
+Sophia,Female,verbal assault in public,One prior offense,19,44.2
+Adam,Male,verbal assault in public,None,46,30.7
+Noah,Male,trespassing on private property,Multiple prior offenses,48,73.0
+Michael,Male,shoplifting from a supermarket,One prior offense,52,44.7
+Sarah,Female,petty theft from workplace,One prior offense,37,57.4
+Emma,Female,disrupting public order,One prior offense,18,49.6
+Olivia,Female,possessing a small amount of cannabis,None,46,5.2
+Emma,Female,petty theft from workplace,One prior offense,56,65.2
+James,Male,petty theft from workplace,Multiple prior offenses,32,78.8
+Noah,Male,petty theft from workplace,None,21,23.7
+Jonathan,Male,petty theft from workplace,One prior offense,54,62.8
+Jonathan,Male,verbal assault in public,Multiple prior offenses,29,83.3
+Jessica,Female,verbal assault in public,Multiple prior offenses,35,77.4
+Michael,Male,possessing a small amount of cannabis,Multiple prior offenses,33,82.0
+Adam,Male,illegal street vending,One prior offense,20,48.4
+Rachel,Female,trespassing on private property,None,57,35.0
+Ethan,Male,verbal assault in public,Multiple prior offenses,37,88.4
+Sarah,Female,verbal assault in public,One prior offense,57,47.7
+Ethan,Male,illegal street vending,One prior offense,30,56.9
+Ava,Female,disrupting public order,One prior offense,55,43.2
+Rachel,Female,driving without a license,One prior offense,54,59.1
+James,Male,minor fraud in online sale,None,52,39.0
+Hannah,Female,minor fraud in online sale,One prior offense,38,51.0
+Ethan,Male,disrupting public order,Multiple prior offenses,26,79.3
+Jonathan,Male,illegal street vending,None,52,34.0
+Ava,Female,disrupting public order,Multiple prior offenses,41,85.8
+Adam,Male,minor fraud in online sale,Multiple prior offenses,37,87.6
+Hannah,Female,shoplifting from a supermarket,None,22,27.5
+Daniel,Male,minor fraud in online sale,None,25,31.3
+Jessica,Female,shoplifting from a supermarket,One prior offense,33,48.6
+Olivia,Female,vandalizing public property,None,28,20.5
+Jessica,Female,petty theft from workplace,None,50,16.4
+James,Male,driving without a license,None,28,10.2
+Ethan,Male,possessing a small amount of cannabis,One prior offense,54,41.2
+James,Male,trespassing on private property,One prior offense,31,62.6
+Liam,Male,shoplifting from a supermarket,None,54,34.6
+David,Male,minor fraud in online sale,Multiple prior offenses,19,95.0
+Daniel,Male,verbal assault in public,None,20,17.3
+Adam,Male,trespassing on private property,Multiple prior offenses,58,86.7
+Liam,Male,verbal assault in public,One prior offense,25,55.7
+Jessica,Female,shoplifting from a supermarket,None,29,12.7
+Ava,Female,shoplifting from a supermarket,One prior offense,43,41.1
+Mia,Female,verbal assault in public,Multiple prior offenses,53,82.2
+James,Male,disrupting public order,One prior offense,54,48.3
+Sophia,Female,vandalizing public property,Multiple prior offenses,44,76.6
+Sarah,Female,shoplifting from a supermarket,None,58,29.2
+James,Male,petty theft from workplace,Multiple prior offenses,29,75.3
+Mia,Female,vandalizing public property,One prior offense,45,52.1
+Emily,Female,driving without a license,None,32,18.2
+Rachel,Female,trespassing on private property,Multiple prior offenses,22,81.5
+Emma,Female,driving without a license,One prior offense,54,55.1
+Liam,Male,trespassing on private property,Multiple prior offenses,20,73.6
+Michael,Male,possessing a small amount of cannabis,Multiple prior offenses,52,69.1
+David,Male,trespassing on private property,None,58,17.0
+James,Male,illegal street vending,None,25,27.4
+Liam,Male,possessing a small amount of cannabis,One prior offense,31,62.5
+Olivia,Female,possessing a small amount of cannabis,Multiple prior offenses,40,74.4
+Jessica,Female,disrupting public order,Multiple prior offenses,18,73.1
+Adam,Male,trespassing on private property,Multiple prior offenses,21,70.3
+Ethan,Male,driving without a license,None,30,22.9
+Emma,Female,shoplifting from a supermarket,Multiple prior offenses,53,82.9
+Emily,Female,petty theft from workplace,None,42,34.4
+Jessica,Female,possessing a small amount of cannabis,None,54,14.5
+Jonathan,Male,vandalizing public property,One prior offense,43,63.0
+Jonathan,Male,disrupting public order,One prior offense,32,41.7
+Hannah,Female,possessing a small amount of cannabis,None,49,16.2
+Olivia,Female,driving without a license,One prior offense,60,68.1
+Ethan,Male,minor fraud in online sale,One prior offense,56,57.4
+Ethan,Male,petty theft from workplace,Multiple prior offenses,41,81.5
+Benjamin,Male,driving without a license,None,45,13.8
+Olivia,Female,driving without a license,Multiple prior offenses,31,76.2
+Liam,Male,illegal street vending,One prior offense,60,45.4
+Michael,Male,petty theft from workplace,Multiple prior offenses,56,80.7
+Michael,Male,minor fraud in online sale,One prior offense,23,46.1
+Sophia,Female,possessing a small amount of cannabis,Multiple prior offenses,48,71.2
+Mia,Female,minor fraud in online sale,Multiple prior offenses,50,90.6
+Benjamin,Male,minor fraud in online sale,One prior offense,53,59.0
+Benjamin,Male,driving without a license,Multiple prior offenses,37,76.4
+Michael,Male,minor fraud in online sale,Multiple prior offenses,36,80.7
+Benjamin,Male,illegal street vending,Multiple prior offenses,32,68.8
+Sarah,Female,illegal street vending,Multiple prior offenses,51,83.8
+Sophia,Female,driving without a license,None,49,16.8
+Jessica,Female,petty theft from workplace,None,28,23.1
+Emma,Female,trespassing on private property,None,45,34.8
+Hannah,Female,verbal assault in public,One prior offense,59,41.1
+Jessica,Female,vandalizing public property,None,54,39.3
+Jonathan,Male,possessing a small amount of cannabis,None,39,18.7
+James,Male,vandalizing public property,None,50,36.1
+Daniel,Male,shoplifting from a supermarket,None,29,32.8
+Sarah,Female,minor fraud in online sale,One prior offense,33,69.9
+Sarah,Female,disrupting public order,One prior offense,36,67.1
+Jessica,Female,driving without a license,One prior offense,30,47.1
+Benjamin,Male,illegal street vending,None,32,32.8
+Olivia,Female,illegal street vending,Multiple prior offenses,23,67.0
+David,Male,illegal street vending,One prior offense,34,39.8
+Hannah,Female,minor fraud in online sale,None,33,26.1
+Ethan,Male,driving without a license,None,25,28.4
+Noah,Male,disrupting public order,Multiple prior offenses,29,88.1
+Daniel,Male,vandalizing public property,None,38,31.8
+Mia,Female,driving without a license,One prior offense,25,47.7
+Benjamin,Male,disrupting public order,One prior offense,46,62.7
+Liam,Male,minor fraud in online sale,Multiple prior offenses,47,80.2
+David,Male,petty theft from workplace,Multiple prior offenses,24,91.1
+Michael,Male,driving without a license,One prior offense,26,49.2
+Hannah,Female,verbal assault in public,None,19,34.6
+David,Male,driving without a license,Multiple prior offenses,53,74.5
+James,Male,driving without a license,Multiple prior offenses,53,80.4
+Hannah,Female,shoplifting from a supermarket,One prior offense,26,49.0
+Noah,Male,verbal assault in public,None,43,11.4
+James,Male,illegal street vending,None,51,13.3
+Emily,Female,minor fraud in online sale,Multiple prior offenses,31,82.6
+David,Male,driving without a license,One prior offense,28,56.5
+Jessica,Female,trespassing on private property,One prior offense,34,63.0
+Daniel,Male,illegal street vending,One prior offense,23,38.2
+James,Male,disrupting public order,None,29,23.7
+Emma,Female,minor fraud in online sale,None,54,41.7
+David,Male,petty theft from workplace,One prior offense,51,69.0
+Michael,Male,possessing a small amount of cannabis,Multiple prior offenses,54,77.0
+Adam,Male,driving without a license,One prior offense,28,66.7
+David,Male,vandalizing public property,Multiple prior offenses,45,83.1
+Hannah,Female,driving without a license,Multiple prior offenses,20,71.3
+Ava,Female,vandalizing public property,None,18,36.7
+Liam,Male,disrupting public order,One prior offense,60,41.9
+Jonathan,Male,trespassing on private property,Multiple prior offenses,28,86.7
+Daniel,Male,verbal assault in public,None,58,12.4
+Olivia,Female,driving without a license,One prior offense,53,65.1
+Mia,Female,disrupting public order,None,37,17.8
+Ava,Female,illegal street vending,One prior offense,35,52.1
+Mia,Female,petty theft from workplace,None,41,31.2
+Rachel,Female,driving without a license,One prior offense,38,60.5
+James,Male,possessing a small amount of cannabis,One prior offense,28,62.3
+Noah,Male,illegal street vending,Multiple prior offenses,27,76.3
+Rachel,Female,trespassing on private property,None,48,34.0
+David,Male,driving without a license,Multiple prior offenses,34,75.3
+Emily,Female,disrupting public order,One prior offense,35,49.4
+Liam,Male,vandalizing public property,Multiple prior offenses,28,70.9
+Ava,Female,shoplifting from a supermarket,One prior offense,46,60.6
+Hannah,Female,verbal assault in public,None,43,28.9
+Mia,Female,verbal assault in public,None,22,16.8
+Adam,Male,disrupting public order,None,33,36.6
+Noah,Male,vandalizing public property,Multiple prior offenses,38,79.0
+Emily,Female,petty theft from workplace,None,34,19.9
+Michael,Male,trespassing on private property,Multiple prior offenses,50,76.2
+Benjamin,Male,disrupting public order,None,46,23.4
+Sophia,Female,trespassing on private property,One prior offense,30,56.6
+Adam,Male,illegal street vending,Multiple prior offenses,36,65.3
+Mia,Female,vandalizing public property,One prior offense,46,41.5
+Mia,Female,driving without a license,Multiple prior offenses,34,84.7
+Michael,Male,minor fraud in online sale,None,50,27.4
+Jessica,Female,illegal street vending,One prior offense,34,49.8
+Sarah,Female,illegal street vending,None,18,12.0
+Emily,Female,minor fraud in online sale,One prior offense,49,48.0
+Sarah,Female,petty theft from workplace,One prior offense,33,62.7
+Hannah,Female,petty theft from workplace,One prior offense,45,70.7
+James,Male,minor fraud in online sale,None,47,30.0
+Hannah,Female,possessing a small amount of cannabis,One prior offense,33,63.7
+Sarah,Female,driving without a license,One prior offense,56,52.7
+Michael,Male,driving without a license,Multiple prior offenses,43,72.1
+Adam,Male,minor fraud in online sale,None,27,27.8
+Emily,Female,driving without a license,Multiple prior offenses,42,89.9
+Jonathan,Male,petty theft from workplace,Multiple prior offenses,57,93.9
+Hannah,Female,illegal street vending,None,42,33.7
+Mia,Female,driving without a license,Multiple prior offenses,53,73.3
+Daniel,Male,minor fraud in online sale,Multiple prior offenses,21,85.8
+Emma,Female,trespassing on private property,Multiple prior offenses,18,71.7
+Noah,Male,shoplifting from a supermarket,Multiple prior offenses,38,71.5
+David,Male,possessing a small amount of cannabis,Multiple prior offenses,40,65.8
+Emily,Female,disrupting public order,Multiple prior offenses,60,71.0
+Noah,Male,illegal street vending,Multiple prior offenses,34,68.6
+Emma,Female,verbal assault in public,Multiple prior offenses,45,83.7
+Adam,Male,minor fraud in online sale,None,36,23.8
+Hannah,Female,disrupting public order,One prior offense,41,66.6
+Sarah,Female,disrupting public order,One prior offense,30,44.3
+Noah,Male,possessing a small amount of cannabis,Multiple prior offenses,49,75.8
+David,Male,verbal assault in public,One prior offense,19,40.5
+Rachel,Female,possessing a small amount of cannabis,Multiple prior offenses,44,73.0
+Sarah,Female,petty theft from workplace,One prior offense,18,49.2
+Ava,Female,driving without a license,One prior offense,50,42.0
+Jessica,Female,vandalizing public property,Multiple prior offenses,22,84.1
+Sophia,Female,possessing a small amount of cannabis,None,48,7.0
+David,Male,possessing a small amount of cannabis,Multiple prior offenses,34,77.7
+Rachel,Female,illegal street vending,Multiple prior offenses,31,84.1
+Sophia,Female,possessing a small amount of cannabis,One prior offense,49,46.6
+Hannah,Female,driving without a license,Multiple prior offenses,51,79.0
+Daniel,Male,petty theft from workplace,Multiple prior offenses,46,81.0
+James,Male,minor fraud in online sale,Multiple prior offenses,55,85.1
+Noah,Male,possessing a small amount of cannabis,Multiple prior offenses,39,67.7
+Mia,Female,minor fraud in online sale,One prior offense,31,74.1
+Michael,Male,shoplifting from a supermarket,One prior offense,60,69.4
+Benjamin,Male,vandalizing public property,Multiple prior offenses,28,79.6
+Olivia,Female,illegal street vending,None,25,15.1
+Olivia,Female,driving without a license,None,53,32.7
+Hannah,Female,minor fraud in online sale,One prior offense,22,58.8
+Sophia,Female,driving without a license,One prior offense,37,48.8
+Jessica,Female,possessing a small amount of cannabis,None,41,17.0
+Benjamin,Male,driving without a license,None,34,23.7
+Noah,Male,shoplifting from a supermarket,Multiple prior offenses,49,70.3
+Ava,Female,possessing a small amount of cannabis,One prior offense,50,62.5
+Sophia,Female,illegal street vending,One prior offense,19,46.1
+Ethan,Male,minor fraud in online sale,One prior offense,54,47.4
+Michael,Male,possessing a small amount of cannabis,None,47,30.5
+Ethan,Male,vandalizing public property,One prior offense,52,58.5
+Emily,Female,shoplifting from a supermarket,Multiple prior offenses,31,81.8
+Ethan,Male,minor fraud in online sale,Multiple prior offenses,47,89.6
+Noah,Male,shoplifting from a supermarket,One prior offense,49,48.5
+Ava,Female,minor fraud in online sale,Multiple prior offenses,38,79.2
+Daniel,Male,driving without a license,None,50,21.6
+Ethan,Male,disrupting public order,None,33,15.8
+Hannah,Female,verbal assault in public,None,25,39.1
+Noah,Male,trespassing on private property,Multiple prior offenses,36,80.7
+Noah,Male,possessing a small amount of cannabis,One prior offense,20,44.4
+Mia,Female,minor fraud in online sale,None,47,41.4
+Ava,Female,verbal assault in public,Multiple prior offenses,55,81.7
+Sophia,Female,verbal assault in public,Multiple prior offenses,41,82.6
+Mia,Female,petty theft from workplace,None,21,15.7
+Ethan,Male,trespassing on private property,None,59,10.2
+Daniel,Male,vandalizing public property,None,19,21.4
+Ethan,Male,trespassing on private property,One prior offense,25,67.9
+Ethan,Male,trespassing on private property,Multiple prior offenses,33,72.2
+Adam,Male,driving without a license,None,25,39.3
+Mia,Female,trespassing on private property,One prior offense,22,63.7
+Jessica,Female,verbal assault in public,None,51,26.3
+Benjamin,Male,shoplifting from a supermarket,Multiple prior offenses,33,75.4
+David,Male,vandalizing public property,None,47,31.0
+Sarah,Female,vandalizing public property,One prior offense,42,41.7
+Emily,Female,verbal assault in public,None,59,15.8
+Jonathan,Male,disrupting public order,One prior offense,36,50.3
+James,Male,possessing a small amount of cannabis,None,24,27.3
+Daniel,Male,petty theft from workplace,None,40,37.3
+Jonathan,Male,driving without a license,Multiple prior offenses,49,76.4
+James,Male,disrupting public order,None,44,30.0
+Benjamin,Male,possessing a small amount of cannabis,Multiple prior offenses,22,78.9
+Ava,Female,disrupting public order,None,22,15.1
+Ava,Female,possessing a small amount of cannabis,One prior offense,23,59.8
+Daniel,Male,vandalizing public property,One prior offense,36,47.6
+Jonathan,Male,vandalizing public property,One prior offense,45,55.3
+Olivia,Female,verbal assault in public,None,20,25.8
+David,Male,vandalizing public property,Multiple prior offenses,60,82.5
+David,Male,driving without a license,None,30,28.4
+Sarah,Female,disrupting public order,One prior offense,20,51.2
+Sophia,Female,trespassing on private property,One prior offense,28,44.2
