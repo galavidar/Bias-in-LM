@@ -26,8 +26,9 @@ However, language models trained on biased or synthetic data can reinforce or in
 1. **Input**: A short text summary of a legal case.
 2. **Output**: A risk percentage (e.g., `72%`).
 3. **Policy Recommendation**:
-   - < 40% → Release
-   - 40–70% → Release with Bail
+   - <20% → Release
+   - 20-40% → Release with low Bail
+   - 40–70% → Release with high Bail
    - > 70% → Pretrial Detention
 
 Model outputs are suggestions only; final decisions remain with the judge.
