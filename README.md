@@ -29,7 +29,7 @@ However, language models trained on biased or synthetic data can reinforce or in
    - <20% → Release
    - 20-40% → Release with low Bail
    - 40–70% → Release with high Bail
-   - > 70% → Pretrial Detention
+   - >70% → Pretrial Detention
 
 Model outputs are suggestions only; final decisions remain with the judge.
 
