@@ -1,4 +1,4 @@
-# Bias-in-LLM
+# Bias-in-LM
 # JustiLM – Bias-Aware Pretrial Risk Assessment Using Language Models
 
 ## 🧠 Overview
